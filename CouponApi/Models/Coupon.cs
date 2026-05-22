@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using CouponApi.Models.DTO;
+using System.ComponentModel.DataAnnotations;
 namespace CouponApi.Models
 {
     public class Coupon
@@ -10,6 +11,7 @@ namespace CouponApi.Models
         [Required]
         public  double DiscountAmount { get; set; }
         public int MinAmount {  get; set; }
+       
 
     }
 }

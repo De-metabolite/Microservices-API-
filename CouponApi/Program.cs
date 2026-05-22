@@ -1,3 +1,5 @@
+using AutoMapper;
+using CouponApi;
 using CouponApi.Data;
 using Microsoft.EntityFrameworkCore;
 
@@ -10,7 +12,11 @@ builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(ConnectionString);
 }
 );
+builder.Services.AddAuthentication();
+builder.Services.AddAuthorization();
 builder.Services.AddControllers();
+
+    
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
@@ -25,12 +31,14 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseAuthentication();
 
 app.UseAuthorization();
 
 app.MapControllers();
 
 app.Run();
+ApplyMigration();
 void ApplyMigration()
 {
     using (var scope = app.Services.CreateScope())
