@@ -3,6 +3,7 @@ using CouponApi.Models;
 using CouponApi.Models.DTO;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace CouponApi.Controllers
 {
@@ -18,11 +19,11 @@ namespace CouponApi.Controllers
             _response=new ResponseDto();
         }
         [HttpGet]
-        public ResponseDto Get() 
+        public async Task<ActionResult<ResponseDto>> Get() 
         {
             try
             {
-                IEnumerable<Coupon> objlist = _db.Coupons.ToList();
+                IEnumerable<Coupon> objlist = await _db.Coupons.ToListAsync();
                 _response.Result = objlist;
               
             }catch(Exception ex)
@@ -30,17 +31,65 @@ namespace CouponApi.Controllers
                 _response.Message = ex.Message;
                 _response.IsSuccess = false;
             }
-            return _response;
+            return Ok(_response);
         }
 
         [HttpGet]
         [Route("{id:int}")]
-        public ResponseDto Get([FromRoute] int id)
+        public async Task<ActionResult<ResponseDto>> Get([FromRoute] int id)
         {
             try
             {
-                Coupon objlist = _db.Coupons.First(u=>u.CouponId==id);
-                _response.Result= objlist;
+                Coupon objlist = await _db.Coupons.FindAsync(id);
+                var dto = new CouponDto(objlist);
+                _response.Result= dto;
+                _response.Message = "List of Available coupons";
+            }
+            catch (Exception ex)
+            {
+                _response.Message = ex.Message;
+                _response.IsSuccess = false;
+            }
+            return Ok(_response);
+        }
+        [HttpGet]
+        [Route("GetByCode{code}")]
+        public async Task<ActionResult<ResponseDto>> Get([FromRoute] string code)
+        {
+            try
+            {
+                var objlist = await _db.Coupons.FirstOrDefaultAsync(u => u.CouponCode.ToLower() == code.ToLower());
+                var dto = new CouponDto(objlist);
+                _response.Result = dto;
+                _response.Message = "List of Available coupons";
+            }
+            catch (Exception ex)
+            {
+                _response.Message = ex.Message;
+                _response.IsSuccess = false;
+            }
+            return Ok(_response);
+        }
+        [HttpPost("CreateCoupon")]
+        
+        public ResponseDto Post([FromBody] CouponDto dto)
+        {
+            try
+            {
+                
+                Coupon obj = new Coupon
+                {
+                  
+                    CouponCode = dto.CouponCode,
+                    DiscountAmount = dto.DiscountAmount,
+                    MinAmount = dto.MinAmount,
+                };
+                _db.Coupons.Add(obj);
+                _db.SaveChanges();
+                
+                
+                _response.Result = dto;
+                _response.Message = "Coupon Created Successfully";
             }
             catch (Exception ex)
             {
