@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\migrations\\20260521140403_seedcoupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\migrations\\20260521140403_seedcoupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\migrations\\20260521133735_initialcommit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\migrations\\20260521133735_initialcommit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\couponapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CouponDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Models\\DTO\\CouponDto.cs",
+              "RelativeDocumentMoniker": "CouponApi\\Models\\DTO\\CouponDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Models\\DTO\\CouponDto.cs",
+              "RelativeToolTip": "CouponApi\\Models\\DTO\\CouponDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T11:01:50.33Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ResponseDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Models\\DTO\\ResponseDto.cs",
+              "RelativeDocumentMoniker": "CouponApi\\Models\\DTO\\ResponseDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Models\\DTO\\ResponseDto.cs",
+              "RelativeToolTip": "CouponApi\\Models\\DTO\\ResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T05:40:55.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CouponAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Controllers\\CouponAPIController.cs",
+              "RelativeDocumentMoniker": "CouponApi\\Controllers\\CouponAPIController.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Controllers\\CouponAPIController.cs",
+              "RelativeToolTip": "CouponApi\\Controllers\\CouponAPIController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAowC8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T14:25:29.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CouponApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\appsettings.json",
+              "RelativeToolTip": "CouponApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-21T13:13:40.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Program.cs",
+              "RelativeDocumentMoniker": "CouponApi\\Program.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Program.cs",
+              "RelativeToolTip": "CouponApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T12:03:23.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Coupon.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Models\\Coupon.cs",
+              "RelativeDocumentMoniker": "CouponApi\\Models\\Coupon.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Models\\Coupon.cs",
+              "RelativeToolTip": "CouponApi\\Models\\Coupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T10:55:52.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20260521140403_SeedCoupon.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Migrations\\20260521140403_SeedCoupon.cs",
+              "RelativeDocumentMoniker": "CouponApi\\Migrations\\20260521140403_SeedCoupon.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Migrations\\20260521140403_SeedCoupon.cs",
+              "RelativeToolTip": "CouponApi\\Migrations\\20260521140403_SeedCoupon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T14:04:04.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "CouponApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "CouponApi\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAwwBEAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T11:53:01.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260521133735_InitialCommit.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Migrations\\20260521133735_InitialCommit.cs",
+              "RelativeDocumentMoniker": "CouponApi\\Migrations\\20260521133735_InitialCommit.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Migrations\\20260521133735_InitialCommit.cs",
+              "RelativeToolTip": "CouponApi\\Migrations\\20260521133735_InitialCommit.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-21T13:37:39.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CouponApi.csproj",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\CouponApi.csproj",
+              "RelativeDocumentMoniker": "CouponApi\\CouponApi.csproj",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\CouponApi.csproj",
+              "RelativeToolTip": "CouponApi\\CouponApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-21T10:54:32.843Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

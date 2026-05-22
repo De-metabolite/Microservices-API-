@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/FrontEnd/" />
+  <Folder Name="/Gateway/" />
+  <Folder Name="/Integration/" />
+  <Folder Name="/Integration/Services/">
+    <Project Path="CouponApi/CouponApi.csproj" />
+  </Folder>
+</Solution>
