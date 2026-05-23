@@ -7,24 +7,32 @@
       "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\controllers\\couponapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\models\\dto\\updatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\models\\dto\\updatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\models\\dto\\coupondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\models\\dto\\createdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\models\\dto\\createdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\models\\coupon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\models\\dto\\responsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|solutionrelative:couponapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9543422E-5F46-C053-06A1-347048759720}|CouponApi\\CouponApi.csproj|c:\\users\\hp\\source\\repos\\microservices\\couponapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,21 +62,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CouponDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Models\\DTO\\CouponDto.cs",
               "RelativeDocumentMoniker": "CouponApi\\Models\\DTO\\CouponDto.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Models\\DTO\\CouponDto.cs",
               "RelativeToolTip": "CouponApi\\Models\\DTO\\CouponDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T11:01:50.33Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Models\\DTO\\UpdateDto.cs",
+              "RelativeDocumentMoniker": "CouponApi\\Models\\DTO\\UpdateDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Models\\DTO\\UpdateDto.cs",
+              "RelativeToolTip": "CouponApi\\Models\\DTO\\UpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T14:55:17.117Z"
             },
             {
               "$type": "Document",
@@ -78,7 +97,7 @@
               "RelativeDocumentMoniker": "CouponApi\\Controllers\\CouponAPIController.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Controllers\\CouponAPIController.cs",
               "RelativeToolTip": "CouponApi\\Controllers\\CouponAPIController.cs",
-              "ViewState": "AgIAADwAAAAAAAAAAAAAAEoAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAmwHgAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-21T14:25:29.741Z",
               "EditorCaption": ""
@@ -93,25 +112,23 @@
               "RelativeToolTip": "CouponApi\\Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T12:03:23.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T12:03:23.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Coupon.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Models\\Coupon.cs",
               "RelativeDocumentMoniker": "CouponApi\\Models\\Coupon.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Models\\Coupon.cs",
               "RelativeToolTip": "CouponApi\\Models\\Coupon.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAqwBEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAqwAkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T10:55:52.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T10:55:52.697Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "CouponApi\\Data\\AppDbContext.cs",
@@ -119,25 +136,35 @@
               "RelativeToolTip": "CouponApi\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAA9wBEAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T11:53:01.74Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T11:53:01.74Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ResponseDto.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Models\\DTO\\ResponseDto.cs",
               "RelativeDocumentMoniker": "CouponApi\\Models\\DTO\\ResponseDto.cs",
               "ToolTip": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Models\\DTO\\ResponseDto.cs",
               "RelativeToolTip": "CouponApi\\Models\\DTO\\ResponseDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T05:40:55.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T05:40:55.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
+              "Title": "CreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Models\\DTO\\CreateDto.cs",
+              "RelativeDocumentMoniker": "CouponApi\\Models\\DTO\\CreateDto.cs",
+              "ToolTip": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Models\\DTO\\CreateDto.cs",
+              "RelativeToolTip": "CouponApi\\Models\\DTO\\CreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-22T14:07:16.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\appsettings.json",
               "RelativeDocumentMoniker": "CouponApi\\appsettings.json",
@@ -145,12 +172,11 @@
               "RelativeToolTip": "CouponApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-21T13:13:40.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T13:13:40.721Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "MappingConfig.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\MappingConfig.cs",
               "RelativeDocumentMoniker": "CouponApi\\MappingConfig.cs",
@@ -158,12 +184,11 @@
               "RelativeToolTip": "CouponApi\\MappingConfig.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-22T08:22:43.134Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-22T08:22:43.134Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "20260521140403_SeedCoupon.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Migrations\\20260521140403_SeedCoupon.cs",
               "RelativeDocumentMoniker": "CouponApi\\Migrations\\20260521140403_SeedCoupon.cs",
@@ -171,12 +196,11 @@
               "RelativeToolTip": "CouponApi\\Migrations\\20260521140403_SeedCoupon.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T14:04:04.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T14:04:04.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "20260521133735_InitialCommit.cs",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\Migrations\\20260521133735_InitialCommit.cs",
               "RelativeDocumentMoniker": "CouponApi\\Migrations\\20260521133735_InitialCommit.cs",
@@ -184,12 +208,11 @@
               "RelativeToolTip": "CouponApi\\Migrations\\20260521133735_InitialCommit.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAIBJwBYAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-21T13:37:39.871Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T13:37:39.871Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "CouponApi.csproj",
               "DocumentMoniker": "C:\\Users\\hp\\source\\repos\\MICROSERVICES\\CouponApi\\CouponApi.csproj",
               "RelativeDocumentMoniker": "CouponApi\\CouponApi.csproj",
@@ -197,8 +220,7 @@
               "RelativeToolTip": "CouponApi\\CouponApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-21T10:54:32.843Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-21T10:54:32.843Z"
             }
           ]
         }

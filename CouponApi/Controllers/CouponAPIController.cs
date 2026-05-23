@@ -72,7 +72,7 @@ namespace CouponApi.Controllers
         }
         [HttpPost("CreateCoupon")]
         
-        public ResponseDto Post([FromBody] CouponDto dto)
+        public async Task<ActionResult <ResponseDto>> Post([FromBody] CreateDto dto)
         {
             try
             {
@@ -84,8 +84,8 @@ namespace CouponApi.Controllers
                     DiscountAmount = dto.DiscountAmount,
                     MinAmount = dto.MinAmount,
                 };
-                _db.Coupons.Add(obj);
-                _db.SaveChanges();
+                 _db.Coupons.Add(obj);
+               await _db.SaveChangesAsync();
                 
                 
                 _response.Result = dto;
@@ -96,7 +96,29 @@ namespace CouponApi.Controllers
                 _response.Message = ex.Message;
                 _response.IsSuccess = false;
             }
-            return _response;
+            return Ok(_response);
+        }
+        [HttpDelete]
+        [Route("{id:int}")]
+        public async Task<ActionResult<ResponseDto>> Put([FromRoute] int id)
+        {
+            try
+            {
+                var obj = await _db.Coupons.FindAsync(id);
+
+                _db.Coupons.Remove(obj);
+                await  _db.SaveChangesAsync();
+
+
+               
+                _response.Message = $"The Coupon with an Id {id} has been deleted Successfully";
+            }
+            catch (Exception ex)
+            {
+                _response.Message = ex.Message;
+                _response.IsSuccess = false;
+            }
+            return Ok(_response);
         }
 
     }

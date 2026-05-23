@@ -47,6 +47,32 @@
   },
   {
     "ContainingType": "CouponApi.Controllers.CouponAPIController",
+    "Method": "Put",
+    "RelativePath": "api/CouponAPI/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "CouponApi.Models.DTO.ResponseDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "CouponApi.Controllers.CouponAPIController",
     "Method": "Post",
     "RelativePath": "api/CouponAPI/CreateCoupon",
     "HttpMethod": "POST",
@@ -55,7 +81,7 @@
     "Parameters": [
       {
         "Name": "dto",
-        "Type": "CouponApi.Models.DTO.CouponDto",
+        "Type": "CouponApi.Models.DTO.CreateDto",
         "IsRequired": true
       }
     ],
