@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CouponApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+87014044883e387da17da2efdff34882ccbae842")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ec5b74878e329bff2034f1c4815c727545aac92a")]
 [assembly: System.Reflection.AssemblyProductAttribute("CouponApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CouponApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
