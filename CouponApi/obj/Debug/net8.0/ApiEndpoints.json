@@ -2,7 +2,7 @@
   {
     "ContainingType": "CouponApi.Controllers.CouponAPIController",
     "Method": "Get",
-    "RelativePath": "api/CouponAPI",
+    "RelativePath": "api/couponapi",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -22,7 +22,7 @@
   {
     "ContainingType": "CouponApi.Controllers.CouponAPIController",
     "Method": "Get",
-    "RelativePath": "api/CouponAPI/{id}",
+    "RelativePath": "api/couponapi/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -48,7 +48,7 @@
   {
     "ContainingType": "CouponApi.Controllers.CouponAPIController",
     "Method": "Put",
-    "RelativePath": "api/CouponAPI/{id}",
+    "RelativePath": "api/couponapi/{id}",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -74,7 +74,7 @@
   {
     "ContainingType": "CouponApi.Controllers.CouponAPIController",
     "Method": "Post",
-    "RelativePath": "api/CouponAPI/CreateCoupon",
+    "RelativePath": "api/couponapi/CreateCoupon",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -100,7 +100,7 @@
   {
     "ContainingType": "CouponApi.Controllers.CouponAPIController",
     "Method": "Get",
-    "RelativePath": "api/CouponAPI/GetByCode{code}",
+    "RelativePath": "api/couponapi/GetByCode{code}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
